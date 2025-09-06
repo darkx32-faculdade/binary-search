@@ -1,0 +1,28 @@
+.corpo-principal {
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    
+}
+.formulario {
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    margin: 30px;
+    padding: 10px;
+}
+.arquivo {
+    padding: 10px;
+}
+.texto1{
+    padding: 10px;
+}
+.botao {
+    display: flex;
+}
+.main-button {
+    width: 100px;
+    height: 25px;
+    margin: 10px;
+}
